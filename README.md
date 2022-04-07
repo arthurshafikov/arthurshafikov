@@ -36,4 +36,5 @@ I am **Software Engineer** from Russia, I love to code and solve interesting tas
 
 ## 📬 Get in **touch**
 - *LinkedIn:* <a href="https://www.linkedin.com/in/arthur-shafikov-5bab70233/" target="_blank">Arthur Shafikov</a>
+- *Telegram:* <a href="https://t.me/wolf_front" target="_blank">@wolf_front</a> 
 - *Email:* volchonock27@gmail.com
