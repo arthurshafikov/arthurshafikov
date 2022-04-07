@@ -15,7 +15,7 @@ I am **Software Engineer** from Russia, I love to code and solve interesting tas
     <img alt="PHP" height="40px" src="./php.svg" />
     <img alt="Laravel" height="40px" src="./laravel.svg" />
     <img alt="Golang" height="40px" src="./golang.svg" />
-    <img alt="JavaScript" height="40px" src="./javascript.svg" />
+    <img alt="JavaScript" height="40px" src="./js.svg" />
     <img alt="MySQL" height="40px" src="./mysql.svg" />
     <img alt="PostgreSQL" height="40px" src="./postgresql.svg" />
     <img alt="MongoDB" height="40px" src="./mongodb.svg" />
