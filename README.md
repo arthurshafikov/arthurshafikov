@@ -14,10 +14,10 @@ I am **Software Engineer** from Russia, I love to code and solve interesting tas
 <img align="left" alt="PHP" height="50px" style="margin-right:8px;" src="./php.png" />
 <img align="left" alt="Laravel" height="50px" style="margin-right:8px;" src="./laravel.jpg" />
 <img align="left" alt="Golang" height="50px" style="margin-right:8px;" src="./go.png" />
+<img align="left" alt="JavaScript" height="50px" style="margin-right:8px;" src="./js.png" />
 <img align="left" alt="MySQL" height="50px" style="margin-right:8px;" src="./mysql.png" />
 <img align="left" alt="PostgreSQL" height="50px" style="margin-right:8px;" src="./postgresql.png" />
 <img align="left" alt="MongoDB" height="50px" style="margin-right:8px;" src="./mongo.png" />
-<img align="left" alt="JavaScript" height="50px" style="margin-right:8px;" src="./js.png" />
 <img align="left" alt="HTML" height="50px" style="margin-right:8px;" src="./html.png" />
 <img align="left" alt="CSS" height="50px" style="margin-right:8px;" src="./css.png" />
 <img align="left" alt="SASS" height="50px" style="margin-right:8px;" src="./sass.webp" />
