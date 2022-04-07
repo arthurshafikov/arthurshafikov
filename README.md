@@ -13,17 +13,19 @@ I am **Software Engineer** from Russia, I love to code and solve interesting tas
 
 ## :wrench: Languages and Tools
 
-<img alt="PHP" height="36px" style="margin-right:8px;" src="./php.png" />
-<img alt="Laravel" height="36px" style="margin-right:8px;" src="./laravel.jpg" />
-<img alt="Golang" height="36px" style="margin-right:8px;" src="./go.png" />
-<img alt="MySQL" height="36px" style="margin-right:8px;" src="./mysql.png" />
-<img alt="PostgreSQL" height="36px" style="margin-right:8px;" src="./postgresql.png" />
-<img alt="MongoDB" height="36px" style="margin-right:8px;" src="./mongo.png" />
-<img alt="JavaScript" height="36px" style="margin-right:8px;" src="./js.png" />
-<img alt="HTML" height="36px" style="margin-right:8px;" src="./html.png" />
-<img alt="CSS" height="36px" style="margin-right:8px;" src="./css.png" />
-<img alt="SASS" height="36px" style="margin-right:8px;" src="./sass.webp" />
+<img align="left" alt="PHP" height="36px" style="margin-right:8px;" src="./php.png" />
+<img align="left" alt="Laravel" height="36px" style="margin-right:8px;" src="./laravel.jpg" />
+<img align="left" alt="Golang" height="36px" style="margin-right:8px;" src="./go.png" />
+<img align="left" alt="MySQL" height="36px" style="margin-right:8px;" src="./mysql.png" />
+<img align="left" alt="PostgreSQL" height="36px" style="margin-right:8px;" src="./postgresql.png" />
+<img align="left" alt="MongoDB" height="36px" style="margin-right:8px;" src="./mongo.png" />
+<img align="left" alt="JavaScript" height="36px" style="margin-right:8px;" src="./js.png" />
+<img align="left" alt="HTML" height="36px" style="margin-right:8px;" src="./html.png" />
+<img align="left" alt="CSS" height="36px" style="margin-right:8px;" src="./css.png" />
+<img align="left" alt="SASS" height="36px" style="margin-right:8px;" src="./sass.webp" />
 
+<br>
+<br>
 <br>
    
 ---
