@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arthur!
 
-I am **Software Engineer** from Russia, I love to code and solve interesting tasks. For me **programming** is more that just a job. I like to learn through **practice** rather than learning from lectures. I prefer to **experiment and try** than to think and procrastinate about my tasks. 
+I am a **Software Engineer** from Russia, I love to code and solve interesting tasks. For me **programming** is more that just a job. I don't like to learn only from lectures, I like **practice**. I prefer to **experiment and try** rather than to think and procrastinate about my tasks. 
 
 ## ✨ Current **Stack**
 1. PHP (Laravel)
