@@ -11,21 +11,19 @@ I am **Software Engineer** from Russia, I love to code and solve interesting tas
 
 ## :wrench: Languages and Tools
 
-<img align="left" alt="PHP" height="40px" src="./php.png" />
-<img align="left" alt="Laravel" height="40px" src="./laravel.jpg" />
-<img align="left" alt="Golang" height="40px" src="./go.png" />
-<img align="left" alt="JavaScript" height="40px" src="./js.png" />
-<img align="left" alt="MySQL" height="40px" src="./mysql.png" />
-<img align="left" alt="PostgreSQL" height="40px" src="./postgresql.png" />
-<img align="left" alt="MongoDB" height="40px" src="./mongo.png" />
-<img align="left" alt="HTML" height="40px" src="./html.png" />
-<img align="left" alt="CSS" height="40px" src="./css.png" />
-<img align="left" alt="SASS" height="40px" src="./sass.webp" />
+<p float="left" background="#fff">
+    <img alt="PHP" height="40px" src="./php.svg" />
+    <img alt="Laravel" height="40px" src="./laravel.svg" />
+    <img alt="Golang" height="40px" src="./golang.svg" />
+    <img alt="JavaScript" height="40px" src="./javascript.svg" />
+    <img alt="MySQL" height="40px" src="./mysql.svg" />
+    <img alt="PostgreSQL" height="40px" src="./postgresql.svg" />
+    <img alt="MongoDB" height="40px" src="./mongodb.svg" />
+    <img alt="HTML" height="40px" src="./html5.svg" />
+    <img alt="CSS" height="40px" src="./css.svg" />
+    <img alt="SASS" height="40px" src="./sass.svg" />
+</p>
 
-<br>
-<br>
-<br>
-   
 ## :blue_book: **Principles** of Software Development
 
 - [x] **DRY**
