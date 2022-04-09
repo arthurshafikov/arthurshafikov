@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arthur!
 
-I am a **Software Engineer** from Russia, I love to code and solve interesting tasks. For me **programming** is more that just a job. I don't like to learn only from lectures, I like **practice**. I prefer to **experiment and try** rather than to think and procrastinate about my tasks. 
+I am a **Software Engineer** from Russia, I'm passionate about coding and solving uncommon tasks. For me programming is more that just a job. I don't like to learn only from lectures, I like to practice. I prefer to experiment and try rather than to overthink and procrastinate about my tasks. 
 
 ## ✨ Current **Stack**
 1. PHP (Laravel)
@@ -32,6 +32,6 @@ I am a **Software Engineer** from Russia, I love to code and solve interesting t
 - [x] **SOLID**
 
 ## 📬 Get in **touch**
-- *LinkedIn:* <a href="https://www.linkedin.com/in/arthur-shafikov-5bab70233/" target="_blank">Arthur Shafikov</a>
-- *Telegram:* <a href="https://t.me/wolf_front" target="_blank">@wolf_front</a> 
-- *Email:* volchonock27@gmail.com
+- *LinkedIn:* <a href="www.linkedin.com/in/arthur-shafikov/" target="_blank">Arthur Shafikov</a>
+- *Telegram:* <a href="https://t.me/arthur_shafikov" target="_blank">@arthur_shafikov</a> 
+- *Email:* arthur.shafikov27@gmail.com
