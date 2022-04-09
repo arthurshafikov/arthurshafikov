@@ -32,6 +32,6 @@ I am a **Software Engineer** from Russia, I'm passionate about coding and solvin
 - [x] **SOLID**
 
 ## 📬 Get in **touch**
-- *LinkedIn:* <a href="www.linkedin.com/in/arthur-shafikov/" target="_blank">Arthur Shafikov</a>
+- *LinkedIn:* <a href="https://www.linkedin.com/in/arthur-shafikov/" target="_blank">Arthur Shafikov</a>
 - *Telegram:* <a href="https://t.me/arthur_shafikov" target="_blank">@arthur_shafikov</a> 
 - *Email:* arthur.shafikov27@gmail.com
