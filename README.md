@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arthur
 
-I am a **Software Engineer**, I'm passionate about coding and solving uncommon tasks. For me programming is more that just a job. I don't like to learn only from lectures, I like to practice. I prefer to experiment and try rather than to overthink and procrastinate about my tasks. 
+I am a **Software Engineer**, and I'm passionate about coding and solving uncommon tasks. For me programming is more that just a job. I don't like to learn only from lectures, I like to practice. I prefer to experiment and try rather than to overthink and procrastinate about my tasks. 
 
 ## ✨ Current **Stack**
 1. PHP (Laravel)
