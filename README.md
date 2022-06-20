@@ -6,7 +6,7 @@ I am a **Software Engineer**, and I'm passionate about coding and solving uncomm
 1. PHP (Laravel)
 2. Go (Gin, Fasthttp)
 3. Javascript
-4. MySQL, PostgreSQL, MongoDB (learning)
+4. MySQL, PostgreSQL, MongoDB, Clickhouse (learning) 
 5. HTML + CSS (SCSS)
 
 ## :wrench: Languages and Tools
