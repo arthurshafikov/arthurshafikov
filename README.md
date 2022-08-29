@@ -33,5 +33,5 @@ I am a **Software Engineer**, and I'm passionate about coding and solving uncomm
 
 ## 📬 Get in **touch**
 - *LinkedIn:* <a href="https://www.linkedin.com/in/arthur-shafikov/" target="_blank">Arthur Shafikov</a>
-- *Telegram:* <a href="https://t.me/arthur_shafikov" target="_blank">@arthur_shafikov</a> 
+- *Telegram:* <a href="https://t.me/arthurshafikov" target="_blank">@arthurshafikov</a> 
 - *Email:* arthur.shafikov27@gmail.com
