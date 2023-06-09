@@ -3,11 +3,13 @@
 I am a **Software Engineer**, and I'm passionate about coding and solving uncommon tasks. For me programming is more that just a job. I don't like to learn only from lectures, I like to practice. I prefer to experiment and try rather than to overthink and procrastinate about my tasks. 
 
 ## ✨ Current **Stack**
-1. PHP (Laravel)
-2. Go (Gin, Fasthttp)
+1. PHP (Laravel 10.x)
+2. Go (Gin, FastHTTP)
 3. Javascript
-4. MySQL, PostgreSQL, MongoDB, Clickhouse (learning) 
-5. HTML + CSS (SCSS)
+4. MySQL, PostgreSQL, MongoDB, Clickhouse 
+5. Kafka
+6. AWS
+7. HTML + CSS (SCSS) (Tailwind)
 
 ## :wrench: Languages and Tools
 
@@ -19,9 +21,13 @@ I am a **Software Engineer**, and I'm passionate about coding and solving uncomm
     <img alt="MySQL" height="40px" src="./mysql.svg" />
     <img alt="PostgreSQL" height="40px" src="./postgresql.svg" />
     <img alt="MongoDB" height="40px" src="./mongodb.svg" />
+    <img alt="CLICKHOUSE" height="40px" src="./clickhouse.svg" />
     <img alt="HTML" height="40px" src="./html5.svg" />
     <img alt="CSS" height="40px" src="./css.svg" />
+    <img alt="TAILWIND" height="40px" src="./tailwind.svg" />
     <img alt="SASS" height="40px" src="./sass.svg" />
+    <img alt="KAFKA" height="40px" src="./kafka.svg" />
+    <img alt="AWS" height="40px" src="./aws.svg" />
 </p>
 
 ## :blue_book: **Principles** of Software Development
