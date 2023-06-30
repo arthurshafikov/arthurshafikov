@@ -8,7 +8,7 @@ I am a **Software Engineer**, and I'm passionate about coding and solving uncomm
 3. Javascript
 4. MySQL, PostgreSQL, MongoDB, Clickhouse 
 5. Kafka
-6. AWS
+6. AWS (SNS, Lambda, DynamoDB, CloudWatch)
 7. HTML + CSS (SCSS) (Tailwind)
 
 ## :wrench: Languages and Tools
